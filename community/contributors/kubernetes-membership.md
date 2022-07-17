@@ -1,4 +1,4 @@
-# Kuberenetes
+# Kuberenetes Member
 
 ## 如何申请 Kubernetes 成员
 

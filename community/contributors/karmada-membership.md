@@ -1,4 +1,4 @@
-# Karmada
+# Karmada Membership
 
 ## 如何申请 Karmada 成员
 
